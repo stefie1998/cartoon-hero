@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  font-family: Avenir, Futura, Calibri;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+header{
+  background-color: #2D2D2D;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+header h1{
+  color: white;
+  font-family: Avenir Heavy, Futura, Calibri;
+  font-size: 45px;
+  line-height: 50px;
+}
+
+header img{
+  border-radius: 500px;
+  width: 300px;
+  border: 10px solid #6A2424
+}
+
+main{
+  max-width: 1000px;
+  margin:0 auto;
+  padding: 100px, 100px;
+}
+
+main img{
+  max-width: 50%;
+}
+
+h2 {
+  font-size: 30px;
+  color: #6A2424;
+  margin: 40px 0 10px
+}
+
+p.caption{
+  color: #9FA2B2;
+  font-style: italic;
+  margin-top: 0;
+}
+a {
+  color: #6A2424
+}
+
+a:hover{
+  color: #BC5E5E;
+  background-color: #2d2d2d
+}
+
+footer{
+  background-color: #2d2d2d;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.button {
+  background-color: #BC5E5E; /* Green */
+  border: none;
+  color: white;
+  padding: 50px 100px;
+  text-align: left;
+  font-size: 20px;
+}
