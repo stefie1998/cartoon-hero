@@ -61,12 +61,3 @@ footer{
   text-align: center;
   padding: 10px;
 }
-
-.button {
-  background-color: #BC5E5E; /* Green */
-  border: none;
-  color: white;
-  padding: 50px 100px;
-  text-align: left;
-  font-size: 20px;
-}
